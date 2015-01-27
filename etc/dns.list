@@ -1,0 +1,8 @@
+#Format:
+#domain IPaddr1;IPaddr2;IPaddr3;...;
+#
+#Example:
+#abc1.com 1.1.1.1;2.2.2.2;3.3.3.3;
+#abc2.com 1.1.1.1;2.2.2.2;3.3.3.3;
+#abc3.com 1.1.1.1;2.2.2.2;3.3.3.3;
+
